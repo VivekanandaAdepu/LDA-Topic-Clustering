@@ -1,0 +1,1 @@
+For the linux users out there who are intrested in my setup: I'm running Debian (Knoppix 3.4) with a custom 2.6.7 kernel.

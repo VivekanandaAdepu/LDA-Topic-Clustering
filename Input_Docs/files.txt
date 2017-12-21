@@ -1,0 +1,1 @@
+You can use the OBEX File Transfer service with bluetooth from linux (KDE-bluetooth provieds a nice intergration into Konqueror for this) for sending files to the phone.

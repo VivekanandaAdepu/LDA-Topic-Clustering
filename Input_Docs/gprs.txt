@@ -1,0 +1,1 @@
+If you are using Linux, and you want to use GPRS to connect to the net, I suggest this phone along with a Belkin USB Bluetooth adapter.

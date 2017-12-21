@@ -1,0 +1,1 @@
+Sometimes when you press buttons, the menu appears after a second or two.

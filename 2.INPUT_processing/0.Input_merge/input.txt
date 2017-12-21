@@ -1,0 +1,202 @@
+1 apparently , t-mobile is heavily back-logged and can't keep up with demands . 
+2 the backlight on the phone goes off way too quickly ( dangerous when you 're driving at night ) , and there 's no way to change this -- 
+3 Along the way we compared it to my wife's T720i and the 6600 was superior in terms of battery life, connectivity bars and features.
+4 i 've used the speakerphone for almost two hours once and the battery did not even go down one single bar
+5 The battery on mine lasts 2 days if I don't play games that much, and it only takes 90 mins to charge from flat.
+6 This phone has the best battery, it lasts longer then my old 3210
+7 Also the battery life isn't great but it's sufficient for my needs.
+8 The battery power discharges rapidly especially on using the web browser.
+9 and the battery life is bad !
+10 on the up-side , the phone has amazing battery life .
+11 Great battery life , perfect size , but a tid bit quieter than i would like . i do hope that they offer more faceplate options . 
+12 the battery life on this phone is surreal
+13 it is amazing that the battery lasts so long when the phone is so small and light
+14 the battery life is bad 
+15 i also use the phone as my modem via bluetooth to my Apple powerbook!
+16 On occasion I'm not able to connect to the phone with iSync via Bluetooth but I found that rebooting the phone seems to solve this problem.
+17 And Bluetooth does not drain the battery as quick as I thought it would, I usually can go 1.5 days with Bluetooth on along with making calls before I need a full recharge.
+18 With Bluetooth off the phone last almost twice as long.
+19 Connected the phone to my tablet pc and now can access company VPN at 56k speed via bluetooth.
+20 As for bluetooth, no problems at all.
+21 The KDE Bluez system for bluetooth support.
+22 Especially the bluetooth server... Meaning you have to restart the phone if you want bluetooth to work again.
+23 I can connect to my computer via bluetooth to transfer images, calender events, contacts and anything else.
+24 my number one criteria for a new phone was iSync compaibility via bluetooth.
+25 Buttons are quite small and is really a pain exp if one is fond of text messaging.
+26 There will be much erasing of text as, one would tend to type something instead of the actual letters.
+27 buttons do seem a little sticky tho .. and the hands free kits ' connector might be a problem .. 
+28 impossibly tiny and difficult to operate , barely visible , power button
+29 Buttons are quite small and is really a pain exp if one is fond of text messaging.
+30 It takes a while to learn how to use it right, and at this point I am able to make about 70% of my calls using it.
+31 It also works just fine for international calls.
+32 It's a bit pricey to call home from other countries but the instant messaging to and from covered countries in Europe are quite reasonable.
+33 I never get dropped calls.
+34 I use this phone as my quick and dirty digital camera!
+35 Camera quality isn't bad for the low resolution.
+36 The camera is adequate and if I want high-res photos I'll use my digital camera instead.
+37 The nokia 6600 is a great phone, good games, good camera.
+38 I have really enjoyed the camera on this phone.
+39 Although the images are not the best in the world, its very handy to have a camera everywhere you go.
+40 The Camera installed on this phone is awesome
+41 I purchased this phone after researching many different phones, mostly Nokia's that were T-Mobile compatiable.
+42 I've connected the phone with two laptops and a iPaq 4155.
+43 it is a perfect phone in such a small and appealing package . 
+44 Sometimes, various applications crash.
+45 in all fairness , customer reps are very nice , and they ( most of them ) try hard to answer your questions . 
+46 just double check with customer service to ensure the number provided by amazon is for the city / exchange you wanted . 
+47 The only main drawback is the fact that the voice-dialing system is kinda picky.
+48 I will also say that setting up the e-mail account was very simple and straight-forward, although you do need an external SMTP server to use.
+49 This phone has a nice blend of features without going overboard.
+50 And the phone has a very cool feature wich allows you to send images via a normal POP3/SMTP e-mail account
+51 It offers way more features than I need but the ones I use work well.
+52 great features
+53 there is much which has been said in other reviews about the features of this phone , it is a great phone , mine worked without any problems right out of the box .
+54 no other color phone has the combination of features that the 6610 offers
+55 You can use the OBEX File Transfer service with bluetooth from linux (KDE-bluetooth provieds a nice intergration into Konqueror for this) for sending files to the phone.
+56 I really dislike holding a phone to my ear, and I've found the Freespeak to be very comfortable and easy to use with this phone.
+57 The games are decent, but u only get 2 to start off with.
+58 But you can download some really good ones like pac-man or mafia wars.
+59 putting in MP3 player, lots of games and application to download.
+60 games kind of stink and you cant download them you have to get the link cable to get additional games
+61 If you are using Linux, and you want to use GPRS to connect to the net, I suggest this phone along with a Belkin USB Bluetooth adapter.
+62 If you use linux and want GRPS and/or want to use a handsfree bluetooth device, and want a decent camera -- this is the phone for you.
+63 the GPRS web access is sloooooooooooooow!
+64 the headset that comes with the phone has good sound volume but it hurts the ears like you cannot imagine ! 
+65 the infrared is a blessing if you have a previous nokia and want to transfer your old phone book to this phone , saved me hours of re-entering my numbers .
+66 The interface is simple to use.
+67 The Nokia 6600 has a brilliant Java interface
+68 It's important that people know the following:  First, the interface is slow
+69 One primary reason for getting a cell phone was so that I could use it as an internet connection for my laptop running linux, where softmodem drivers are hard to find, and don't work very well.
+70 the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high speed internet , but there are very few problems with things that you expected this phone to do . 
+71 surfing the web on it is nice as well , i just wish there were more wap pages available
+72 For the linux users out there who are intrested in my setup: I'm running Debian (Knoppix 3.4) with a custom 2.6.7 kernel.
+73 My fingers are kind of stubby so it took a while to learn how to hit a key without hitting the adjacent ones.
+74 the keys are close together , and the layout is a bit funky in relation to standard rectangular layout keypads , but it 's not too weird . 
+75 poor visibility on the keys 
+76 The only downside I have found with this phone is that it is a bit slow to react, meaning when I push the contacts button, it takes a while to load, this is true for almost all the menus and programs on the phone.
+77 i am bored with the silver look . 
+78 INCREDIBLE MEMORY!
+79 the menu options are uncreative , as you can 't see a full screen of menu items to pick from ; you have to scroll up and down to find what you 're looking for ( yes , this is minor , but not when you 're trying to keep your eye on the road ! ) . 
+80 Menu is a bit slow, but overall, phone is very functional.
+81 I saw a few complaints on the load time of menus and I feel people are over-exaggerating the menu load time.
+82 I have a couple hundred contacts and the menu loads within a few seconds, no big deal.
+83 I did notice if you turn the phone on and off the OS takes a bit to load up and initially the menus are slower but once the phone has been on and booted up the menus are reasonably quicker.
+84 Sometimes when you press buttons, the menu appears after a second or two.
+85 Menu is a bit slow, but overall, phone is very functional.
+86 i 've had an assortment of cell phones over the years ( motorola , sony ericsson , nokia etc. ) and in my opinion , nokia has the best menus and promps hands down . 
+87 i am a business user who heavily depends on mobile service . 
+88 the combination of the nokia 6610 and t-mobile service ( signal , price , service ) is a winner , i highly recommend it . 
+89 The 6600 was the best phone I could find with these options that I could get with t-mobile.
+90 I will say that the OS that the phone runs does have a few issues.
+91 The Nokia 660 runs the Symbian OS, which works pretty well for most standard phone fare, most of the stuff is not that intuitive, but if you actually learn how to use it all, there's plenty of neat tie-ins.
+92 Other than that, the simbian series 60 OS is great and offers lots of proprietary software that will work on your phone if you're willing to hunt for it.
+92 [t]
+93 Supporting an operating system, Symbian OS, you can download and run a lot of programs on this phone.
+94 while i like the performance of the phone in every regard , i would buy another one solely upon the apparent indestructibility of it . 
+95 i would highly recommmend...... oh and i have owned this baby for like 6 months now
+96 The phone itself is pretty nice.
+97 Overall the phones fantastic, and I would have given it 5 stars, but its not perfect.
+98 This is the first cell phone I've owned, and overall, I am quite pleased with it.
+99 The bottom line is "Phone is cool one - only for the moment, as its the latest phone in the market and has all the new features, but this will soon be displaced by upcoming newer phones".
+100 #It is a multifunction phone, reception quality is better than the 610.
+101 i do like this phone overall ( would give it a 3.5 ) , but unforutnately , i am returning it . 
+102 i bought this phone for my trip to south africa and it worked almost perfectly
+103 i 'd always eyed the nokia phones and had heard decent things about t-mobile , so i gave it a whirl . 
+104 the pics can be touched up in photoshop, and be printed at 4x6 and they look great!
+105 On the T-Mobile service I was able to take pics as we drove across I-70 and email them to family & friends once we reached a T-Mobile tzone (usually a major city).
+106 Picture and video quality is ok.
+107 Picture quality's great for still and video with sound.
+108 after years with that carrier 's expensive plans and horrible customer service , portability seemed heaven-sent . 
+109 after years with that carrier 's expensive plans and horrible customer service , portability seemed heaven-sent . 
+110 I thought it was kind of steeply priced at that time
+111 whether you 're taking a brisk jog , waiting for a bus or just having lunch at the park , you 'll be glad you had the fm radio . 
+112 this phone is one of the few phones that have an fm radio tuner built in 
+113 this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the stations are coming in clearly the phone 's radio should work perfectly . 
+114 also , you need to have the headset plugged in all the time to have the radio work and that can get tedious . 
+115 Depending on the timing of the postmark date, you don't get your second bill until the postmark date passes, so it's impossible to qualify for the rebate.
+116 For last one month my Rebate status showing me that my rebate is apporved and check is delivered but still I am waiting for Check.
+117 But watch the Amazon rebates on these (T-Mobile rebate is fine).
+118 You have to wait to get your second bill before you can send the rebate form in
+119 These people takes lest effort to process rebate forms.
+120 Another great feature for me anyway is the ability to load .wav sounds as ringers.
+121 The phone can use any MIDI audio file as a ringtone.
+122 The fact that you can assign ringtones to people and/or groups is really cool.
+123 This way I never have to be ripped off by the carrier for stupid ringtones, I can get whatever I want.
+124 you can record your voice and turn it into a ringtone.
+125 ring tones only come with crazy songs and annoying rings , there is only one ring that sounds close to a regular ring .
+126 sound - excellent polyphonic ringing tones are very nice ( check cons ) it also doubles as a radio , which is a nice feature when you are bored . 
+127 Some of the higher pitched rings are very easy to hear , but not easy to listen to . 
+128 the more subtle tones that were included with the phone are hard to hear at times .
+129 One nice thing about Nokias is that they have a ton of ring tone and game choices
+130 The ringtones are beautiful, the screen is super high quality
+131 Another great feature for me anyway is the ability to load .wav sounds as ringers
+132 It's really well made and has survived sliding across floors and pavement without a scratch.
+133 Among my requirments for a phone were: good screen, decent camera, bluetooth, and GPRS support.
+134 It has a nice color screen . 
+135 the colors on the screen are not as crisp as i 'd have liked them to be . 
+136 the screen is easily scratched but if you have the warranty you should be able to swap it out
+137 A huge beautiful color screen which can not been scratched at all even with the rough handling i give it
+138 excellent phone , excellent service 
+139 Their customer service agents are always prompt and polite and my service is terrific.
+140 the day finally arrived when i was sure i 'd leave sprint . 
+141 i assumed they had exceptional service , but their reception in my area ( los angeles ) is horrendous . 
+142 Their customer service agents are always prompt and polite and my service is terrific.
+143 I like it's shape and it's keypad and joystick
+144 I like the size and shape
+145 after several years of torture in the hands of at&t customer service i am delighted to drop them , and look forward to august 2004 when i will convert our other 3 family-phones from at&t to t-mobile ! 
+146 Outside of the T-Mobile service area the phone seamlessly jumped onto AT&T Wireless and various other services where the T-Mobile service was unavailable.
+147 As I drove across the country I lost reception only in eastern Kentucky's mountains.
+148 I almost always get a good strong signal, even in fairly remote areas here in the southwest.
+149 i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route . 
+150 And also, since it is tri band and since it uses SIM-card, you can just use it in Europe and many other parts of the world, wherever GSM exists.
+151 I was looking for a phone which synced with Mac OSX using Bluetooth, had decent battery life, could check email, had good reception, nice screen size and was durable (I break often break small gadgets)
+152 I like the size and shape.
+153 The only problem is the size of the keys.
+154  Phone is kinda heavy, but small in size.
+155 DOwnside is the size of the phone, it is BIG for today's standard.
+156 nice little phone ... light compact . . 
+157 size - extremely small and convenient will fit in your pocket and not bother you . 
+158 It fits comfortably in my hand and pocket.
+159 this is a benefit for many reasons ; one being just for appearance , your pants wo n't be bulging with this phone in your pocket . 
+160 when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light
+161 I was looking for a phone which synced with Mac OSX using Bluetooth, had decent battery life, could check email, had good reception, nice screen size and was durable (I break often break small gadgets)
+162 i like the size and weight of this little critter .
+163 Phone is awfully slow.
+164 while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece . 
+165 The sound quality is excellent and the speaker phone couldn't be easier to use.
+166 this phone has a very cool and useful feature -- the speakerphone
+167 Initially these phones were fun to play with some of the cool features like the speaker phone, web browser and ofcourse the built in camera.
+168 speaker phone quality is good, and poping in a 512mb MMC card, it rocks !
+169 Love the speaker phone.
+170 it has a handsfree loudspeaker, conference and transfer!
+171 the two biggest things is the excellent working speakerphone " unlike the nokia 3650 " and the superb reception nokia is known for in the gsm phones they make ... 
+172 my favorite features , although there are many , are the speaker phone , the radio and the infrared . 
+173 speakerphone - loud and clear has some nice extra features like currency converter and a stopwatch
+174 from the speakerphone that can be used up to 15 feet away with clarity , to the downloadable poly-graphic megatones that adds a personal touch to this nifty phone
+175 you can be up to about 3 feet away from the speaker and it will still work perfectly
+176 The sound quality is excellent and the speaker phone couldn't be easier to use.
+177 only one complaint about the speakerphone , you can only activate the speakerphone feature once the person you are calling answers the phone , not while it is ringing 
+178 Clear the call logs once in a while to speed up the phone people!!!
+179 the stand by is really good considering all the toys this phone has and the screen size!
+180 it lasts , truly , 7 days on standby
+181 The phone is sturdy
+182 If you own an apple you can isync it to your address book so that you have all of you numbers in two places..... in case you lose your phone (get INSURACE)
+183 I was using a Motorola T720i with Verizon and I had alot of dropped calls and I had troubles syncing data.
+184 For those Mac OSX users out there, iSync works fairly well.
+185 i checked the iSync compatibility page and it was listed--they even had a photo of the 6600 shown in the graphic.
+186 It has great upgradibility.
+187 I've had this phone for almost a year now and it has been nothing but great to use.
+188 the vibration is not top
+189 The video recorders a bit odd, sometimes I get 9 secs on my recordings, sometimes I get 17.
+190 Video recorder is of no use and one cannot record something useful in 10 seconds and it takes a while to send the same through the "Free picture and video messaging" offered by service provider.
+191 High quality video and pictures rock!
+192 it also does n't have voice activated dialling . big minus ! ! 
+193 i have owned motorola , panasonic and nokia phones over the last 8 years and generally prefer nokia , this phone combines many of the best nokia features , the only feature missing for me is the voice recognition
+194 The voice recorders good, but you can't record songs off the radio for ring tones.
+195 volume[-2]. I have excellent hearing but the volume level on this phone is especially quiet . 
+195 forget talking on it in public -- you just can 't hear the other person ! 
+196 you can adjust the volume to be heard anywhere or so that it does n't make that big of a disturbance
+197 The volume level of the phone is not all that good .
+198 this is a very nice phone , but there is no warranty on it . 
+199 The speed is the same as dail up, where i live we do not have wifi everywhere so this is my version of it until we catch up.
+200 although the nokia 6610 is a little short on the features department , it is an outstanding piece of hardware for doing what it was primarily meant to do : to be a wireless telephone . 

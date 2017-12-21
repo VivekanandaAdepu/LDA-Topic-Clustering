@@ -1,0 +1,1 @@
+I will also say that setting up the e-mail account was very simple and straight-forward, although you do need an external SMTP server to use.

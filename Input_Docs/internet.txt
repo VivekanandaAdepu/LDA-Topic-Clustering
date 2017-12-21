@@ -1,0 +1,1 @@
+One primary reason for getting a cell phone was so that I could use it as an internet connection for my laptop running linux, where softmodem drivers are hard to find, and don't work very well.

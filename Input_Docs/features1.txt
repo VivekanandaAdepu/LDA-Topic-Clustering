@@ -1,0 +1,1 @@
+And the phone has a very cool feature wich allows you to send images via a normal POP3/SMTP e-mail account

@@ -1,0 +1,1 @@
+Especially the bluetooth server... Meaning you have to restart the phone if you want bluetooth to work again.

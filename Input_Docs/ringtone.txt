@@ -1,0 +1,1 @@
+The phone can use any MIDI audio file as a ringtone.
